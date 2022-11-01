@@ -7,6 +7,8 @@ The ICDO developers include Dr. Ling (Eric) Wan, Justin Song, Virginia He, Jenni
 
 The OICD work was first presented as an oral presentation by Dr. Ling (Eric) Wan in the 10th International Conference on Biomedical Ontology (ICBO-2019), August 1, 2019, Buffalo. 
 
+Note: The previous version of ICDO is here: https://github.com/icdo/ICDO , which is obsoleted on November 1, 2022. 
+
 Currently we have two use cases. One use case is on the COVID-19 diagnosis data analysis. Another use case is the application of ICDO for Chinese ICD clinical data integration and analysis. 
 
 ## OICD developers: 
