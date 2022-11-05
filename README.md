@@ -1,7 +1,7 @@
 # OICD
 OICD: Ontology of International Classification of Diseases
 
-Previously named as ICDO (for ICD Ontology), OICD is an ontology representation of the ICD system, which includes ICD-10, ICD-9, and the future ICD-11. OICD logically represents ICD terms and their relations with anatomic entities, qualities, etc. Different from other disease ontologies, all ICD diseases are defined as disease processes in OICD. The current OICD focuses on English and Chinese representation. ICDO can identify and standardize local ICD versions and will be used to integrate ICD related data. 
+Previously named as ICDO (for ICD Ontology), OICD is an ontology representation of the ICD systems. OICD logically represents ICD terms and their relations with anatomic entities, qualities, etc. Different from other disease ontologies, all ICD diseases are defined as disease processes in OICD. The current OICD focuses on English and Chinese representation. ICDO can identify and standardize local ICD versions and will be used to integrate ICD related data. 
 
 The ICDO developers include Dr. Ling (Eric) Wan, Justin Song, Virginia He, Jennifer Roman, Grace Whah, Edison Ong, and Yongqun (Oliver) He. We appreciate the support by Ms. Meiu Wong, Dr. Xubin Song, and many other. More collaborations are welcome! Thanks! 
 
